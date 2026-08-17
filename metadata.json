@@ -1,0 +1,6 @@
+{
+  "name": "Educare Help Desk - AIOU Student Portal",
+  "description": "Comprehensive student support desk, AI study assistant, solved assignments hub, fee estimator, BISE Sargodha board services (Admissions, Exam Results, Downloads, Degree Verification), and job updates. Contact: 03451291610.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
